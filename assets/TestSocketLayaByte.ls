@@ -13,15 +13,15 @@
     {
       "_$id": "dtcypdd0",
       "_$type": "Sprite",
-      "name": "TestSocketArrayBuffer",
+      "name": "TestSocketLayaByte",
       "x": 524,
       "y": 276,
       "width": 100,
       "height": 100,
       "_$comp": [
         {
-          "_$type": "4ac5f2c1-9171-451c-9744-d890c6ae91aa",
-          "scriptPath": "../src/TestSocketArrayBuffer.ts"
+          "_$type": "ca6c6e73-c5ba-431a-9c6c-ab1cd178a6bf",
+          "scriptPath": "../src/TestSocketLayaByte.ts"
         }
       ]
     }
