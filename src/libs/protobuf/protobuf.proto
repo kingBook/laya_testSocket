@@ -1,0 +1,8 @@
+syntax = "proto3"; // 指定使用 Protobuf 3 语法
+
+// 定义一个 ChatMessage 消息
+message ChatMessage {
+  string user = 1;     // 用户名，字段编号是 1
+  string message = 2;  // 消息内容，字段编号是 2
+  int64 timestamp = 3; // 消息时间戳，字段编号是 3
+}
